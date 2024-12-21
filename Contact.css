@@ -1,0 +1,16 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.footer-page{
+    font-size: 18px;
+    font-weight: 800;
+    color: orangered;
+}
+.footer{
+    margin-top: 100px;
+}
+.social-media{
+    margin-left: 700px;
+}

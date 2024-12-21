@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.shop{
+    color: red;
+    margin-top: 50px;
+    margin-left: 40px;
+    font-weight: 600;
+}
+.para{
+    margin-left: 70px;
+    font-size: 17px;
+    font-weight: 800;
+    text-decoration: none;
+}
+.inside{
+    color: red;
+    font-family: 800;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.kitchen{
+    margin-left: 10px;
+    margin-left: 70px;
+}
+.border{
+    margin-left: 50px;
+}
